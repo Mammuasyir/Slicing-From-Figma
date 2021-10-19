@@ -1,0 +1,161 @@
+* {
+  font-family: 'Asap', sans-serif;
+}
+
+.bg-nav {
+  background-image: url("../Asset/bg.png");
+}
+
+.bg-nav nav {
+  padding: 30px 0;
+}
+
+.bg-nav nav .navbar-toggler {
+  color: #B0C3C9;
+}
+
+.bg-nav nav ul li .nav-link {
+  color: #B0C3C9 !important;
+  margin-left: 20px;
+}
+
+.bg-nav nav ul li .nav-link:hover {
+  font-weight: bold;
+  color: #F2AD5F !important;
+}
+
+.bg-nav nav ul li .active {
+  color: #F2AD5F !important;
+  font-weight: bold;
+}
+
+header {
+  background-image: url(../Asset/bg.png);
+  background-size: cover;
+  padding: 230px 0 380px;
+  margin-top: -120px;
+  text-align: center;
+}
+
+header p {
+  color: white;
+  font-size: 65px;
+  padding-bottom: 30px;
+}
+
+header .btn-danger {
+  color: black;
+  background-color: #F2AD5F;
+  border-color: #F2AD5F;
+  width: 170px;
+  height: 45px;
+  border-radius: 50px;
+}
+
+header .btn-danger:hover {
+  color: black;
+  background-color: #fcc17e;
+  border-color: #fcc17e;
+}
+
+.ilustration {
+  margin-top: -200px;
+}
+
+.ilustration .img-partner {
+  padding-top: 50px;
+}
+
+.reason {
+  padding-top: 150px;
+}
+
+.reason .list-reason {
+  padding-left: 50px;
+}
+
+.reason .list-reason h2 {
+  font-size: 42px;
+}
+
+.reason .list-reason ul {
+  padding: 50px 0;
+}
+
+.reason .list-reason ul li {
+  padding-bottom: 20px;
+}
+
+.reason .list-reason ul a {
+  text-decoration: none;
+  color: black;
+}
+
+.reason .list-reason ul img {
+  margin-right: 16px;
+}
+
+.reason .list-reason a {
+  color: black;
+}
+
+.featured {
+  padding-top: 150px;
+}
+
+.featured .title {
+  padding-bottom: 70px;
+}
+
+.featured .title h2 {
+  font-size: 48px;
+}
+
+.featured .jarak {
+  padding: 70px;
+}
+
+.featured .jarak .card .card-body table .nama {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.featured .jarak .card .card-body table .lokasi {
+  padding-top: 6px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #cacad2;
+}
+
+.featured .jarak .card .card-body .price .dollar {
+  font-size: 48px;
+  font-weight: 500;
+}
+
+.featured .jarak .card .card-body .price span {
+  font-size: 22px;
+  font-weight: 200;
+}
+
+.featured .card .card-body table .nama {
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.featured .card .card-body table .lokasi {
+  padding-top: 6px;
+  font-size: 14px;
+  font-weight: 400;
+  color: #cacad2;
+}
+
+.featured .card .card-body .price .dollar {
+  font-size: 48px;
+  font-weight: 500;
+}
+
+.featured .card .card-body .price span {
+  font-size: 22px;
+  font-weight: 200;
+}
+/*# sourceMappingURL=style.css.map */
